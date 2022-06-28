@@ -1,0 +1,41 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+body {
+  background-color: hsl(217, 54%, 11%);
+  align-items: center;
+  color :hsl(215, 51%, 70%);
+}
+.top-img {
+  height :280px;
+  width : 284px;
+  margin: 16px 0 0px 16px;
+  border-radius: 15px;
+}
+h4,b{
+  color: white;
+}
+.card{
+  margin:50px auto;
+  background-color: hsl(216, 50%, 16%);
+  width: 20rem;
+  border-radius: 10px;
+}
+.left {
+  display: inline-block;
+  position: absolute;
+  right : 20px;
+}
+h5{
+  display: inline-block;
+  color : hsl(178, 100%, 50%);
+}
+img.img{
+  height:30px;
+  width: 30px;
+}
+p{
+  font-size: 16px;
+}
